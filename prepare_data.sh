@@ -1,0 +1,1 @@
+python3 prepare_data.py --tif_dir tif/ --nii_dir nii/ --csv_dir .
